@@ -46,7 +46,7 @@
     "chai-passport-strategy": "3.x.x",
     "jsonwebtoken": "^7.1.9",
     "make-node": "0.3.x",
-    "mocha": "2.x.x",
+    "mocha": "10.x.x",
     "proxyquire": "^1.7.10",
     "sinon": "^1.17.6"
   },
